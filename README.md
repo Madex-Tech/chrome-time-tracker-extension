@@ -8,7 +8,7 @@ This is a Chrome extension that tracks how much time you spend on each website.
 - View time spent in a popup UI
 
 ## 🛠️ Installation
-1. Download this repo as a ZIP or clone it
+1. Download this repo as a ZIP
 2. Open Chrome → `chrome://extensions`
 3. Enable **Developer mode**
 4. Click **Load unpacked**
