@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "TabTime Tracker",
+  "version": "1.0",
+  "description": "Track how long you spend on each website. View times in HH:MM:SS format.",
+  "permissions": ["tabs", "storage", "idle"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "View Time Tracked"
+  }
+}
