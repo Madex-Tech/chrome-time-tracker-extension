@@ -13,6 +13,7 @@ This is a Chrome extension that tracks how much time you spend on each website.
 3. Enable **Developer mode**
 4. Click **Load unpacked**
 5. Select this folder
+6. Click details and enable "Pin to toolbar"
 
 ## 📸 Screenshot
 ![Time Tracker Popup](https://github.com/user-attachments/assets/895547ca-8794-4bd4-b7ec-9ddc17f61b17)
