@@ -15,3 +15,5 @@ This is a Chrome extension that tracks how much time you spend on each website.
 5. Select this folder
 
 ## 📸 Screenshot
+![Time Tracker Popup](https://github.com/user-attachments/assets/895547ca-8794-4bd4-b7ec-9ddc17f61b17)
+
