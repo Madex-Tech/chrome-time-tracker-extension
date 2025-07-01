@@ -5,8 +5,8 @@ chrome.runtime.onStartup.addListener(() => {
   });
 });
 
-let activeUrl = null;
-let startTime = null;
+let activeUrl = null; // activeUrl is beign set to null
+let startTime = null;  // startTimeUrl is beign set to null
 
 function getHostname(url) {
   try {
