@@ -36,3 +36,6 @@ This project taught me how powerful browser extensions can be when it comes to p
 In conclusion, Task 4 helped me understand a new domain of web development — browser tooling — and pushed me to build a utility tool that directly interacts with user behavior. It combined all aspects of JavaScript programming, data tracking, storage management, and user interface design into one compact package. With further improvements like notification alerts, dark mode, or syncing across devices, this extension can become a fully functional digital well-being tool.
 
 This task not only rounded off my internship experience but also gave me confidence to publish and maintain my own browser extensions on the Chrome Web Store in the future.
+
+##  Output
+![Time Tracker Popup](https://github.com/user-attachments/assets/895547ca-8794-4bd4-b7ec-9ddc17f61b17)
